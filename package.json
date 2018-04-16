@@ -6,6 +6,8 @@
     "start": "webpack-dev-server"
   },
   "devDependencies": {
+    "@angular/cli": "^1.7.4",
+    "@angular/core": "^5.2.10",
     "awesome-typescript-loader": "3.2.3",
     "typescript": "2.5.3",
     "webpack": "2.2.0",
